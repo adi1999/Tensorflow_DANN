@@ -2,7 +2,8 @@
 
 TensorFlow Version Used: 2.0
 
-This is an implementation of the paper Domain-Adversarial Training of Neural Networks(https://arxiv.org/abs/1505.07818). I have tested my implementation on 3 datasets ( MNIST, SVHN, SynNumbers)
+This is an implementation of the paper Domain-Adversarial Training of Neural Networks(https://arxiv.org/abs/1505.07818). I have tested my implementation on 3 datasets ( MNIST, SVHN, SynNumbers).
+Paper focuses upon Unsupervised Domain Adaptation via Backpropagation.
 
 #### Source-only training results
 |                              |  MNIST       | SVHN         | SynNumbers |
