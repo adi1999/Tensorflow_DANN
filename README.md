@@ -2,8 +2,7 @@
 
 TensorFlow Version Used: 2.0
 
-This is an implementation of the paper Automated detection of wandering patterns in
-people with dementia(https://arxiv.org/abs/1505.07818). I have tested my implementation on 3 datasets ( MNIST, SVHN, SynNumbers)
+This is an implementation of the paper Domain-Adversarial Training of Neural Networks(https://arxiv.org/abs/1505.07818). I have tested my implementation on 3 datasets ( MNIST, SVHN, SynNumbers)
 
 #### Source-only training results
 |                              |  MNIST       | SVHN         | SynNumbers |
